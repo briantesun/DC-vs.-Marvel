@@ -4,7 +4,7 @@ Note: I completed this project as part of a university course, so I'm unable to 
 
 Summary: Data science project where I confirmed gender biases and derived other insights from a dataset of over 22,000 comic book characters from DC and Marvel using data visualization and statistics. I also made the initial datasets analysis-ready through data engineering tasks that included standardizing numeric data types and changing the index of each dataset to the name of each character. I've included some highlights of the project below.
 
-Using data engineering to discover that, on average, DC features more heros than Marvel:
+Using data engineering to discover that, on average, DC features more heros than Marvel (a permutation test later verified this insight):
 
 ![final](https://user-images.githubusercontent.com/129823285/231052399-9ca5821a-7270-4866-9bca-c27260b766ea.png)
 
